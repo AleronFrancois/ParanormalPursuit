@@ -1,0 +1,4 @@
+repository "Paranormal-Pursuit@Aleron@cloud"
+  path "/"
+    br "/main"
+    co "/main"
